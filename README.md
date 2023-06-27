@@ -8,6 +8,9 @@ Load modules plugin for a Fastify application.
 npm i @itross/fp-moduloader
 ```
 
+## TODO
+**_Write tests!!_**
+
 ## License
 
 [MIT](LICENSE)
