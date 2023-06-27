@@ -1,11 +1,11 @@
-# @itross/fp-pager
+# @itross/fp-moduloader
 
-Fastify plugin to get pagination params from request and return paged resources in response.
+Load modules plugin for a Fastify application.
 
 ## Install
 
 ```bash
-npm i @itross/fp-pager
+npm i @itross/fp-moduloader
 ```
 
 ## License

@@ -1,0 +1,25 @@
+{
+  "name": "@itross/fp-moduloader",
+  "version": "0.1.0",
+  "description": "Load modules plugin for a Fastify application",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itross/fp-moduloader.git"
+  },
+  "keywords": [
+    "fastify",
+    "modules",
+    "loader"
+  ],
+  "author": "Luca Stasio <joshuagame@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itross/fp-moduloader/issues"
+  },
+  "homepage": "https://github.com/itross/fp-moduloader#readme"
+}
