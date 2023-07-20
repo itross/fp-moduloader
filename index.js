@@ -4,7 +4,6 @@ const { resolve, join } = require('path')
 
 const moduloader = async function (app, opts) {
   opts.dir ||= join(process.cwd(), 'lib', 'modules')
-
   if (!Array.isArray(opts.modules)) {
     throw new TypeError('\'modules\' opts property must be an array of modules configuration.')
   }
